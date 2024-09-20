@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-//2ÁÖÂ÷ °³³ä È®ÀÎ °úÁ¦
+//2ì£¼ì°¨ ê°œë… í™•ì¸ ê³¼ì œ
 int main(void) {
 	int num1, num2;
 	printf("Input two integers: ");
